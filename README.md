@@ -15,8 +15,6 @@ Welcome to the 8 Week SQL Challenge! This repository documents my journey as I t
 - Master SQL fundamentals such as data querying, aggregation, and data manipulation.
   
 - Strengthen problem-solving abilities through hands-on case studies.
-  
-- Build a robust online presence by sharing updates on LinkedIn and GitHub.
 
 ## Timeline
 
@@ -34,7 +32,6 @@ Stay tuned for updates and insights! 🚀
 
 **Resources:**
 - [8 Week SQL Challenge Official Website](https://www.datawithdanny.com/8-week-sql-challenge)
-- [Serious SQL Course](https://www.datawithdanny.com/serious-sql-course)
 
 **Connect with Me:**
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gleidyalonzo/))
