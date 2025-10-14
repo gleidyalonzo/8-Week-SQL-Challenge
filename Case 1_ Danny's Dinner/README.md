@@ -13,4 +13,4 @@ All dataset are within dannys_dinner schema which includes:
 - menu: The menu table maps the product_id to the actual product_name and price of each menu item.
 - members: The members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
 
-Use https://www.db-fiddle.com/ to run [query](https://github.com/gleidyalonzo/8-Week-SQL-Challenge/blob/main/Case%201_%20Danny's%20Dinner/case1.sql)
+Use https://www.db-fiddle.com/ to run [query](https://github.com/gleidyalonzo/8-Week-SQL-Challenge/tree/main/Case%201_%20Danny's%20Dinner) with [schema](https://github.com/gleidyalonzo/8-Week-SQL-Challenge/blob/main/Case%201_%20Danny's%20Dinner/sql/schema_setup.sql)
